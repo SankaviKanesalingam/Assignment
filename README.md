@@ -1,7 +1,7 @@
 
 ---
 
-## 🚀 How to Deploy
+## How to Deploy
 
 1. **Containerize App**
    - Dockerfile builds a simple Flask app.
@@ -20,13 +20,8 @@
 
 ---
 
-## 📸 Screenshots
 
-> Add screenshots of the ECS dashboard, CloudWatch logs, browser response, GitLab pipeline status, etc.
-
----
-
-## 📚 Essay: DevOps vs. Platform Engineering
+## DevOps vs. Platform Engineering
 
 **DevOps** and **Platform Engineering** are both essential components of modern software delivery, but they focus on different aspects of the development and operations lifecycle.
 
@@ -44,7 +39,7 @@ While DevOps encourages collaboration, Platform Engineering builds the **enablin
 
 ---
 
-## 🔐 Essay: The Shift Toward DevSecOps and Its Importance
+## The Shift Toward DevSecOps and Its Importance
 
 **DevSecOps** is the evolution of DevOps with **security integrated throughout the development lifecycle**, not just at the end. It promotes the **"shift-left"** approach — moving security checks and compliance earlier into the CI/CD pipeline.
 
